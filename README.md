@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
-**gisynw/gisynw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+🎓 Master at [Clark University](https://www.clarku.edu/)
 
-Here are some ideas to get you started:
+### Project
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
